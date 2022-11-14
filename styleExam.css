@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/53/e0/36/53e036e56437469a917f6a74c08181de.jpg");
+  background-size: cover;
+}
+ul li {
+  list-style-type: none;
+  margin: 0 10px;
+}
+ul {
+  display: flex;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: -10px 10px;
+  font-size: 25px;
+  color: white;
+  font-weight: 900;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+  color: white;
+  font-size: 55px;
+  font-weight: 900;
+}
